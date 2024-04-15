@@ -1,4 +1,6 @@
 # generated from manifests external_dependencies
 fsspec
 paramiko
+python-magic
 python_slugify
+validators
